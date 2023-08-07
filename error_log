@@ -1,0 +1,190 @@
+register2.php on line 38
+[05-Jul-2023 01:02:10 UTC] PHP Warning:  preg_match(): Unknown modifier 'a' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/CHANGETO1PERCENT/register2.php on line 37
+[05-Jul-2023 15:53:02 UTC] PHP Parse error:  Unclosed '{' on line 33 in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/CHANGETO1PERCENT/register2.php on line 84
+[05-Jul-2023 15:53:57 UTC] PHP Warning:  Undefined array key "name" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/CHANGETO1PERCENT/register2.php on line 37
+[05-Jul-2023 15:54:18 UTC] PHP Warning:  Undefined array key "name" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/CHANGETO1PERCENT/register2.php on line 37
+[05-Jul-2023 15:54:36 UTC] PHP Warning:  Undefined array key "name" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/CHANGETO1PERCENT/register2.php on line 37
+[05-Jul-2023 18:47:12 UTC] PHP Parse error:  Unclosed '{' on line 37 in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/CHANGETO1PERCENT/register2.php on line 97
+[05-Jul-2023 19:32:53 UTC] PHP Warning:  preg_match(): Unknown modifier 'a' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 36
+[05-Jul-2023 19:33:09 UTC] PHP Warning:  preg_match(): Unknown modifier 'a' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 36
+[05-Jul-2023 19:37:55 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 37
+[05-Jul-2023 19:38:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 37
+[05-Jul-2023 19:38:17 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 37
+[11-Jul-2023 16:09:19 UTC] PHP Parse error:  Unclosed '{' on line 32 in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 95
+[11-Jul-2023 16:10:32 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:17:44 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:17:48 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:18:09 UTC] PHP Parse error:  Unclosed '{' on line 32 does not match ')' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 49
+[11-Jul-2023 16:19:05 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:19:28 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:19:46 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:20:02 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:20:49 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:25:52 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:29:34 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 39
+[11-Jul-2023 16:30:01 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 57
+[11-Jul-2023 16:31:08 UTC] PHP Parse error:  Unmatched '}' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 93
+[11-Jul-2023 16:31:58 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 62
+[11-Jul-2023 16:31:58 UTC] PHP Warning:  Undefined variable $password in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 73
+[11-Jul-2023 16:31:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php:85
+Stack trace:
+#0 /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 85
+[11-Jul-2023 16:32:16 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:32:16 UTC] PHP Warning:  preg_match(): Unknown modifier 'a' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 55
+[11-Jul-2023 16:32:31 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 62
+[11-Jul-2023 16:32:31 UTC] PHP Warning:  Undefined variable $password in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 73
+[11-Jul-2023 16:32:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php:85
+Stack trace:
+#0 /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 85
+[11-Jul-2023 16:32:46 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:32:46 UTC] PHP Warning:  preg_match(): Unknown modifier 'a' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 55
+[11-Jul-2023 16:32:59 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:32:59 UTC] PHP Warning:  preg_match(): Unknown modifier 'a' in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 55
+[11-Jul-2023 16:33:51 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 62
+[11-Jul-2023 16:33:51 UTC] PHP Warning:  Undefined variable $password in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 73
+[11-Jul-2023 16:33:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php:85
+Stack trace:
+#0 /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 85
+[11-Jul-2023 16:34:05 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:35:40 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:36:02 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:38:11 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[11-Jul-2023 16:39:21 UTC] PHP Warning:  Undefined variable $err in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/REGEXWITHTWOPASSWORDS/register2.php on line 51
+[12-Jul-2023 14:08:01 UTC] PHP Parse error:  syntax error, unexpected identifier "container", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 214
+[12-Jul-2023 14:08:58 UTC] PHP Parse error:  syntax error, unexpected identifier "container", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 214
+[12-Jul-2023 14:09:13 UTC] PHP Parse error:  syntax error, unexpected identifier "container", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 214
+[12-Jul-2023 14:47:37 UTC] PHP Parse error:  syntax error, unexpected identifier "container", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 209
+[12-Jul-2023 14:49:30 UTC] PHP Warning:  Undefined variable $password in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 201
+[12-Jul-2023 14:49:30 UTC] PHP Warning:  Undefined variable $query in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 202
+[12-Jul-2023 14:49:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php:202
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 202
+[12-Jul-2023 14:51:24 UTC] PHP Warning:  Undefined variable $query in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 202
+[12-Jul-2023 14:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php:202
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/RegExTwoPasswords/register2.php on line 202
+[13-Jul-2023 18:52:50 UTC] PHP Warning:  Undefined variable $password in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/StickyFormTrying/register2.php on line 201
+[14-Jul-2023 17:05:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'aboutMeText' cannot be null in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/saveProfileData.php:10
+Stack trace:
+#0 /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/saveProfileData.php(10): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/saveProfileData.php on line 10
+[14-Jul-2023 17:08:11 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:08:11 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:10:41 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:10:41 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:12:55 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:15:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "whatever" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:18:07 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:18:07 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:24:19 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:24:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:26:04 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:26:04 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:30:20 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:30:20 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:31:07 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:31:07 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:36:10 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:36:10 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:41:57 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:41:57 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:52:57 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:52:57 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:53:03 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:53:03 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:54:57 UTC] PHP Parse error:  syntax error, unexpected variable "$fileName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:55:03 UTC] PHP Parse error:  syntax error, unexpected variable "$fileName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:56:38 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:56:38 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:56:38 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:58:49 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:58:49 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:58:49 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:58:56 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:58:56 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 17:58:56 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[14-Jul-2023 17:59:46 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 17:59:51 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:15:21 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:21:47 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:21:47 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:22:06 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:22:06 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:23:42 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:23:42 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:25:53 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:25:53 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:26:08 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:26:08 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:37:18 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:37:18 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:37:30 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:37:30 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[14-Jul-2023 18:44:30 UTC] PHP Warning:  Undefined array key "profilePageName" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 8
+[14-Jul-2023 18:44:30 UTC] PHP Warning:  Undefined array key "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[17-Jul-2023 17:02:58 UTC] PHP Parse error:  syntax error, unexpected identifier "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[17-Jul-2023 17:05:00 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/NATEDEEZ.php on line 1
+[17-Jul-2023 17:07:18 UTC] PHP Parse error:  syntax error, unexpected identifier "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 10
+[17-Jul-2023 17:08:08 UTC] PHP Parse error:  syntax error, unexpected identifier "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[17-Jul-2023 17:11:46 UTC] PHP Parse error:  syntax error, unexpected identifier "aboutMeText" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[17-Jul-2023 17:13:58 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/NA.php on line 1
+[17-Jul-2023 17:15:37 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/ANANA.php on line 1
+[17-Jul-2023 17:16:54 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/AAA.php on line 1
+[17-Jul-2023 17:19:40 UTC] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/showProfileData.php on line 9
+[17-Jul-2023 17:23:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/NEWDATA.php on line 1
+[17-Jul-2023 17:26:35 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/AAAAA.php on line 1
+[17-Jul-2023 17:33:28 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/WHAT.php on line 1
+[18-Jul-2023 15:40:21 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 4
+[18-Jul-2023 15:41:10 UTC] PHP Warning:  Undefined array key "username" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 24
+[18-Jul-2023 15:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 28
+[18-Jul-2023 15:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 28
+[18-Jul-2023 15:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
+[18-Jul-2023 15:42:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
+[18-Jul-2023 15:42:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
+[18-Jul-2023 15:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
+[18-Jul-2023 16:00:08 UTC] PHP Warning:  Undefined array key "username" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 29
+[18-Jul-2023 16:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
+[18-Jul-2023 16:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
+[18-Jul-2023 16:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/AddAboutPage/USERNAMESUBMITFORM7.18.2023.php on line 33
